@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+void kevinFunction(){
+
+}
+
+int main void (){
+	printf("We are the best group");
+}
+	
